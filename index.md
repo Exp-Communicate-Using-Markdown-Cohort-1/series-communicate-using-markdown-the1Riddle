@@ -5,3 +5,10 @@
 ```
 $ sudo apt-get install -y gcc
 ```
+which programming language do you like using?
+
+- [ ] Python
+- [ ] Cpp
+- [ ] Java
+- [ ] Javascript
+- [ ] C#
